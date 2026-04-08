@@ -1,1 +1,1 @@
-# Daniyal-Hussain
+Hi I'm Daniyal Hussain, AI-Focused Software & Web Developer. Proficient in Python, C++ and Web Technologies with practical experience in Machine learning and system design. Passionate about building intelligent and secure systems.
